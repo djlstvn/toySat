@@ -15,5 +15,5 @@ make
 ```
 ./toysat benchmarks/*.cnf
 ```
-3. Plese refer to example benchmarks for the format of input .cnf file.
+3. Plese refer to example benchmarks in **benchmarks** folder for the format of input .cnf file.
 4. If the problem is satisfiable, *.sat will be generated.
