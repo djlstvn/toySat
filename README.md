@@ -4,7 +4,11 @@ This is a built-from-scratch solver for Boolean Satisfiability Problem.
 
 Techniques implemented:
 
-Two-literal watching structure, VSIDS heuristics, 1UIP CDCL with nonchronological backtracking, clause minimization, and a dynamic restart policy, etc.
+- Two-literal watching structure
+- VSIDS heuristics
+- 1UIP CDCL with nonchronological backtracking
+- Clause minimization
+- A dynamic restart policy
 
 To run this SAT solver:
 1. Building:
